@@ -1,5 +1,7 @@
 #include <stdio.h>
-#include<stdlid.h>
+
+#include <stdlib.h>
+
 #include "main.h"
 
 /**
