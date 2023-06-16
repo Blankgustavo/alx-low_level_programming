@@ -1,10 +1,10 @@
 #include <stdio.h>
 
-/*
- *main-entery
- *retutn:always 0
- */
-
+/**
+* main - Entry point
+*
+* Return: Always 0 (Success)
+*/
 int main(void)
 {
 	printf("size of int:%d byte(s)", sizeof(int));
